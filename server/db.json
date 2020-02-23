@@ -1,0 +1,75 @@
+{
+  "groceries": [
+    {
+      "id": "BANANA",
+      "value": {
+        "Shelf_Life": 120,
+        "Calorie_Count_Per_Serving": 105
+      }
+    },
+    {
+      "id": "ZUCHINNI",
+      "value": {
+        "Shelf_Life": 72,
+        "Calorie_Count_Per_Serving": 17
+      }
+    },
+    {
+      "id": "BRUSSEL",
+      "value": {
+        "Shelf_Life": 72,
+        "Calorie_Count_Per_Serving": 30
+      }
+    },
+    {
+      "id": "GRAPES",
+      "value": {
+        "Shelf_Life": 168,
+        "Calorie_Count_Per_Serving": 87
+      }
+    },
+    {
+      "id":"TONATOES",
+      "value": {
+        "Shelf_Life": 150,
+        "Calorie_Count_Per_Serving": 35
+      }
+    },
+    {
+      "id": "POTATOES",
+      "value": {
+        "Shelf_Life": 720,
+        "Calorie_Count_Per_Serving": 163
+      }
+    },
+    {
+      "id": "LETTUCE",
+      "value": {
+        "Shelf_Life": 240,
+        "Calorie_Count_Per_Serving": 10
+      }
+    },
+    {
+      "id": "BROCCOLI",
+      "value": {
+        "Shelf_Life": 150,
+        "Calorie_Count_Per_Serving": 30
+      }
+    },
+    {
+      "id": "PEAS",
+      "value": {
+        "Shelf_Life": 96,
+        "Calorie_Count_Per_Serving": 70
+      }
+    },
+    {
+      "id": "SPROUTS",
+      "value": {
+        "Shelf_Life": 72,
+        "Calorie_Count_Per_Serving": 17
+      }
+    }
+   
+  ]
+}
