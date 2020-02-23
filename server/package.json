@@ -1,0 +1,33 @@
+{
+  "name": "nowaste",
+  "version": "1.0.0",
+  "description": "Backend for anti food waste app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amad1101/NoWaste.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amad1101/NoWaste/issues"
+  },
+  "homepage": "https://github.com/amad1101/NoWaste#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "follow-redirects": "^1.10.0",
+    "images-scraper": "^4.0.0",
+    "lowdb": "^1.0.0",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.2",
+    "tesseract.js": "^2.0.2",
+    "util": "^0.12.1"
+  }
+}
